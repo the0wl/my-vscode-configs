@@ -1,0 +1,24 @@
+{
+    // theme
+    "workbench.colorTheme": "Dracula",
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+
+    "window.zoomLevel": 1,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+
+    "[javascript]": {
+      "editor.codeActionsOnSave": {
+          "source.fixAll.eslint": true
+      }
+    },
+
+    "[javascriptreact]": {
+      "editor.codeActionsOnSave": {
+          "source.fixAll.eslint": true
+      }
+    }
+}
