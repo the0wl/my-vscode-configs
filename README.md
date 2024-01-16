@@ -1,21 +1,14 @@
-<center>
-
-<div>
-  <h1>💻 my-vscode-configs</h1>
-  <p style="color: gray">
-  Repositório atualizado regularmente com minhas configurações da IDE VS Code.
-  </p>
-</div>
-
-</center>
+# 💻 my-vscode-configs
+  
+Repositório atualizado regularmente com minhas configurações da IDE VS Code.
 
 </br>
 
 ![pré visualizacao do layout](/assets/preview.png)
 
+</br>
 
-<div style="display: flex; flex-direction: column; padding: 15px 15px 25px 15px; border-radius: 24px">
-  <span style="color: #e74c3c; font-size: 20px; font-weight: bold; padding-bottom: 10px">❗ Leia com atenção</span>
+## ❗ Leia com atenção</span>
   
   - Estas configurações foram testadas apenas no sistema operacional Windows. Em breve (sem estimativa), estarei postando atualizações para Linux e OSX.
   - Ao configurar seu VS Code utilizando este arquivo `settings.json` a maior parte de seus comandos será via teclado e não interface.
@@ -24,7 +17,7 @@
     - <code>Ctrl</code> + <code>Shift</code> + <code>Q</code> (Mostrar todos os comandos)
     - <code>Ctrl</code> + <code>`</code> (Abrir o terminal)
   - A <code>extensão Apc Customize UI++</code> está em fase experimental.
-<div>
+
 
 </br>
 
