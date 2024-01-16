@@ -16,7 +16,7 @@ Repositório atualizado regularmente com minhas configurações da IDE VS Code.
     - <code>Ctrl</code> + <code>P</code> (Ir até os arquivos)
     - <code>Ctrl</code> + <code>Shift</code> + <code>Q</code> (Mostrar todos os comandos)
     - <code>Ctrl</code> + <code>`</code> (Abrir o terminal)
-  - A <code>extensão Apc Customize UI++</code> está em fase experimental.
+  - A extensão <code>Apc Customize UI++</code> está em fase experimental.
 
 
 </br>
