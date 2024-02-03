@@ -12,12 +12,32 @@ Repositório atualizado regularmente com minhas configurações da IDE VS Code.
   
   - Estas configurações foram testadas apenas no sistema operacional Windows. Em breve (sem estimativa), estarei postando atualizações para Linux e OSX.
   - Ao configurar seu VS Code utilizando este arquivo `settings.json` a maior parte de seus comandos será via teclado e não interface.
-    - <code>Ctrl</code> + <code>Q</code> (Menu lateral esquerdo)
-    - <code>Ctrl</code> + <code>P</code> (Ir até os arquivos)
-    - <code>Ctrl</code> + <code>Shift</code> + <code>Q</code> (Mostrar todos os comandos)
-    - <code>Ctrl</code> + <code>`</code> (Abrir o terminal)
   - A extensão <code>Apc Customize UI++</code> está em fase experimental.
+  - No macOS pode ser necessária a permissão para o APC Customize UI++ editar o VSCode.
+  ```bash
+    sudo chown -R $(whoami) "/Applications/Visual Studio Code.app/Contents/Resources/app/out"
+  ```  
 
+## Comandos
+
+<details>
+<summary>Windows</summary>
+
+- <kbd>Ctrl</kbd> + <kbd>Q</kbd> (Menu lateral esquerdo)
+- <kbd>Ctrl</kbd> + <kbd>P</kbd> (Ir até os arquivos)
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd> (Mostrar todos os comandos)
+- <kbd>Ctrl</kbd> + <kbd>`</kbd> (Abrir o terminal)
+
+</details>
+
+<details>
+<summary>MacOS</summary>
+
+- <kbd>Ctrl</kbd> + <kbd>Q</kbd> (Menu lateral esquerdo)
+- <kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Ir até os arquivos)
+- <kbd>Ctrl</kbd> + <kbd>`</kbd> (Abrir o terminal)
+  
+</details>
 
 </br>
 
@@ -34,9 +54,13 @@ Siga o passo a passo:
   - [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/)
   - [Inter](https://fonts.google.com/specimen/Inter)
 - Abra o seu VS Code
-- ``Ctrl + Shift + P``
+- Use o comando:
+  - Windows: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
+  - MacOS: <kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>.
 - Pesquise por ``Preferences: Open settings (JSON)``
-- Copie e cole o conteúdo do arquivo `settings.json` deste repositório.
+- Copie e cole o conteúdo do arquivo:
+  - Windows: `windows-settings.json`.
+  - MacOS: `macos-settings.json`.
 
 </br>
 
