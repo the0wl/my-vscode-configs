@@ -10,13 +10,13 @@ Repositório atualizado regularmente com minhas configurações da IDE VS Code.
 
 ## ❗ Leia com atenção</span>
   
-  - Estas configurações foram testadas apenas no sistema operacional Windows. Em breve (sem estimativa), estarei postando atualizações para Linux e OSX.
-  - Ao configurar seu VS Code utilizando este arquivo `settings.json` a maior parte de seus comandos será via teclado e não interface.
+  - Estas configurações foram testadas apenas no sistema operacional Windows. Em breve (sem estimativa), estarei postando atualizações para Linux.
+  - Ao configurar seu VS Code utilizando estas configurações a maior parte de seus comandos será via teclado e não via interface.
   - A extensão <code>Apc Customize UI++</code> está em fase experimental.
   - No macOS pode ser necessária a permissão para o APC Customize UI++ editar o VSCode.
   ```bash
     sudo chown -R $(whoami) "/Applications/Visual Studio Code.app/Contents/Resources/app/out"
-  ```  
+  ```
 
 ## Comandos
 
