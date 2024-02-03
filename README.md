@@ -60,7 +60,7 @@ Siga o passo a passo:
 - Pesquise por ``Preferences: Open settings (JSON)``
 - Copie e cole o conteúdo do arquivo:
   - Windows: `windows-settings.json`.
-  - MacOS: `macos-settings.json`.
+  - MacOS: `mac-settings.json`.
 
 </br>
 
